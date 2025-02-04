@@ -10,45 +10,20 @@ I'm passionate about transforming data into actionable insights and building inn
 - 📊 Data Preprocessing & Cleaning
 - 📈 Exploratory Data Analysis (EDA)
 - 🔍 Feature Engineering & Selection
-- 🔄 Data Manipulation & Wrangling
-- 📑 Statistical Analysis
+- 📲 Data Manipulation & Wrangling
+- 📁 Statistical Analysis
 - 🎯 Predictive Modeling
 - 📋 Data Mining & Scraping
 
 ### 🔬 Data Science & Analytics
-```mermaid
-mindmap
-  root((Data Science))
-    Data Processing
-      Cleaning
-      Wrangling
-      Feature Engineering
-    Analysis
-      Statistical Analysis
-      Exploratory Analysis
-      Predictive Analytics
-    Visualization
-      Power BI
-      Interactive Dashboards
-      Data Storytelling
-```
+- Data Processing: Cleaning, Wrangling, Feature Engineering
+- Analysis: Statistical Analysis, Exploratory Analysis, Predictive Analytics
+- Visualization: Power BI, Interactive Dashboards, Data Storytelling
 
 ### 🤖 Machine Learning
-```mermaid
-mindmap
-  root((ML Models))
-    Supervised Learning
-      Classification
-      Regression
-      Time Series
-    Unsupervised Learning
-      Clustering
-      Dimensionality Reduction
-    Deep Learning
-      Neural Networks
-      Computer Vision
-      NLP
-```
+- Supervised Learning: Classification, Regression, Time Series
+- Unsupervised Learning: Clustering, Dimensionality Reduction
+- Deep Learning: Neural Networks, Computer Vision, NLP
 
 #### Data Visualization & BI
 - 📊 Interactive Dashboard Creation
@@ -103,11 +78,11 @@ mindmap
 ### 🌟 Featured Projects
 
 #### Machine Learning Projects
-- 🫀 **[Heart Disease Prediction System]**
+- 🪀 **[Heart Disease Prediction System]**
   - Built an ML model achieving 95% accuracy in predicting heart disease risk
   - Technologies: Python, Scikit-learn, TensorFlow
   
-- 🎬 **[Movie Recommendation Engine]**
+- 🎥 **[Movie Recommendation Engine]**
   - Developed a hybrid recommendation system using collaborative and content-based filtering
   - Stack: Python, Pandas, NumPy, Surprise
 
@@ -121,15 +96,15 @@ mindmap
   - Features: Dynamic filtering, Drill-through analysis, Automated reporting
 
 ### 🏆 Achievements & Certifications
-- 🥇 [Add your relevant certifications]
-- 🥈 [Add your hackathon achievements]
+- 🏅 [Add your relevant certifications]
+- 🏆 [Add your hackathon achievements]
 - 🎯 [Add any other relevant achievements]
 
-### 📫 Let's Connect!
+### 📩 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudram-jhaveri-6aab84241/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](Your-Portfolio-URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rudram.jhaveri@gmail.com)
 
 ---
-⭐️ From [Rudramjhaveri](https://github.com/Rudramjhaveri)
+🌟 From [Rudramjhaveri](https://github.com/Rudramjhaveri)
